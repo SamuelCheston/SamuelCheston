@@ -1,4 +1,4 @@
 👋I am Samuel.  
-😊Web full-stack developer.  
-📝PHP, Typescript, Go.  
+😊full-stack developer.  
+📝MatchCore owner.
 🎁These are some repositories as follows.  
