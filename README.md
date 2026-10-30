@@ -1,4 +1,4 @@
 👋I am Samuel.  
 😊full-stack developer.  
-📝MatchCore owner.
+📝MatchCore owner.  
 🎁These are some repositories as follows.  
